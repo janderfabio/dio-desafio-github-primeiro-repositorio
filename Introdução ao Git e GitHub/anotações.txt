@@ -1,0 +1,2 @@
+Link para download do GIT - https://git-scm.com/downloads
+Guia sobre Markdown - https://www.markdownguide.org/
